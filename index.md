@@ -20,7 +20,7 @@ The Summer School consist of both lectures and hands-on sessions across 5 days h
 | Notification of admission        |                     |
 | Notification of grant allocation |                     |
 | Payment of registration fees     |                     |
-| Summer school                    | 8-12 June, 2020     |
+| Summer school                    | **8-12 June, 2020** |
 
 ### School Programme and Speakers
 
