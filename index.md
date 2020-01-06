@@ -2,6 +2,8 @@
 title: ICAPS-ICRA Summer School on Plan-Based Control for Robotic Agents
 ---
 
+# ICAPS-ICRA Summer School on Plan-Based Control for Robotic Agents
+
 The 11th edition of the International Summer School on Planning and Scheduling will be held in conjuction with ICAPS and ICRA in Paris, France in June 2020. The summer school is aimed at graduate students and young researchers in topics relevant to both conferences. The learning outcomes of the school will help the students understand better how to apply AI methods to robotic systems, and provide experience in both the theoretical background and practical application of AI Planning in the control of robots.
 
 The Summer School consist of both lectures and hands-on sessions across 5 days hosted by Softbank Robotics, providing the unique opportunity to engage in practical experience with robotic systems. The lecture topics provide the foundations of AI Planning, task and motion planning, and many of the key challenges that are encountered in systems that seek to integrate planning and exection on-board robots.
