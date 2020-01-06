@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.body {
+  text-align: justify;
+}
+
 .page-header {
   display: none;
 }
