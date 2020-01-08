@@ -4,9 +4,9 @@ title: ICAPS-ICRA Summer School on Plan-Based Control for Robotic Agents
 
 # ICAPS-ICRA Summer School on Plan-Based Control for Robotic Agents
 
-The 11th edition of the International Summer School on Planning and Scheduling will be held in conjuction with ICAPS and ICRA in Paris, France in June 2020. The summer school is aimed at graduate students and young researchers in topics relevant to both conferences. The learning outcomes of the school will help the students understand better how to apply AI methods to robotic systems, and provide experience in both the theoretical background and practical application of AI Planning in the control of robots. Given the strong synergy that exists between Automated Planning and Robotics and the proximity of ICAPS and ICRA in 2020, this summer school presents a unique opportunity for junior researchers who are attending either conference to also attend a cross-over event that will foster the collaboration between these communities.
+The 11th edition of the International Summer School on Planning and Scheduling will be held in conjunction with ICAPS and ICRA in Paris, France in June 2020. The summer school is aimed at graduate students and young researchers in topics relevant to both conferences. The learning outcomes of the school will help the students understand better how to apply AI methods to robotic systems, and provide experience in both the theoretical background and practical application of AI Planning in the control of robots. Given the strong synergy that exists between Automated Planning and Robotics and the proximity of ICAPS and ICRA in 2020, this summer school presents a unique opportunity for junior researchers who are attending either conference to also attend a cross-over event that will foster the collaboration between these communities.
 
-The Summer School consist of both lectures and hands-on sessions across 5 days hosted by Softbank Robotics, providing the opportunity to engage in practical experience with robotic systems. The lecture topics provide the foundations of AI Planning, task and motion planning, and many of the key challenges that are encountered in systems that seek to integrate planning and exection on-board robots.
+The Summer School consist of both lectures and hands-on sessions across 5 days hosted by Softbank Robotics, providing the opportunity to engage in practical experience with robotic systems. The lecture topics provide the foundations of AI Planning, task and motion planning, and many of the key challenges that are encountered in systems that seek to integrate planning and execution on-board robots.
 
 ### General information
 
@@ -20,17 +20,17 @@ The Summer School consist of both lectures and hands-on sessions across 5 days h
 ### Important dates
 
 |----------------------------------|---------------------|
-| Application and grant request    |                     |
-| Notification of admission        |                     |
-| Notification of grant allocation |                     |
-| Payment of registration fees     |                     |
+| Application and grant request    |   					 |
+| Notification of admission        |   					 |
+| Notification of grant allocation |   					 |
+| Payment of registration fees     | 				     |
 | Summer school                    | **8-12 June, 2020** |
 
 ### School Programme and Speakers
 
 The 2020 ICAPS-ICRA Summer School on Plan-Based Control for Robotic Agents will provide students with the opportunity to learn about both the foundations and recent developments in exciting research areas in AI Planning and Scheduling and Robotics. There are planned lectures as well as hands-on sessions. The courses will cover planning basics, task and motion planning, planning with robotic uncertainty, time-constrained planning, and complete robot planning systems.
 
-Following the succes of the previous editions of the summer school, the aim of this edition is to bring together the fields of AI and Robotics. Lectures will be given by top subject experts from the Planning, Scheduling, and Robotics research communities.
+Following the success of the previous editions of the summer school, the aim of this edition is to bring together the fields of AI and Robotics. Lectures will be given by top subject experts from the Planning, Scheduling, and Robotics research communities.
 
 The summer school will start on 8 June around 10:00 CET and last until 12 June around 16:30 CET.
 
